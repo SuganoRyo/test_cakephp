@@ -53,7 +53,7 @@ services:
     build: ./data/htdocs
     environment:
       TZ: "Asia/Tokyo"
-      PRJ: "tmp"
+      PRJ: "test"
     volumes:
       - "./data/htdocs:/root"
     ports:
