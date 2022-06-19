@@ -13,3 +13,8 @@ cake bake controller
 cake bake All Users
 ./cake bake All Users
 exit
+cd test/bin
+ls
+./cake bake controller
+./cake bake all Articles
+exit

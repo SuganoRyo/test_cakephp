@@ -14,6 +14,7 @@
  */
 
 $cakeDescription = 'CakePHP: the rapid development php framework';
+$cakeDescription = 'テストアプリ'
 ?>
 <!DOCTYPE html>
 <html>
